@@ -1,9 +1,4 @@
-"""
-Credits: 
-	1. https://github.com/opencv/opencv/blob/master/samples/dnn/colorization.py
-	2. http://richzhang.github.io/colorization/
-	3. https://github.com/richzhang/colorization/
-"""
+
 
 # Import statements
 import numpy as np
